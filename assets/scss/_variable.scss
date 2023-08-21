@@ -1,0 +1,8 @@
+//override color variable
+$primary-color:#fd5f00;
+$secondary-color:#0d1128; 
+$theme-colors: (
+        "primary": $primary-color,
+        "secondary": $secondary-color
+);
+
